@@ -1,0 +1,24 @@
+
+--- slide1.xml ---
+
+
+--- slide2.xml ---
+Hook  the audience. </a:r><a:br><a:rPr lang="ru-RU" sz="2800" dirty="0"/></a:br><a:r><a:rPr lang="en-US" sz="2800" dirty="0"><a:latin typeface="Britannic Bold" panose="020B0903060703020204" pitchFamily="34" charset="0"/></a:rPr><a:t>  </a:r><a:br><a:rPr lang="ru-RU" sz="2800" dirty="0"/></a:br><a:r><a:rPr lang="en-US" sz="2800" dirty="0"><a:latin typeface="Britannic Bold" panose="020B0903060703020204" pitchFamily="34" charset="0"/></a:rPr><a:t>“Do you  prefer  natural remedies over chemical products? </a:r><a:br><a:rPr lang="ru-RU" sz="2800" dirty="0"/></a:br><a:r><a:rPr lang="en-US" sz="2800" dirty="0"><a:latin typeface="Britannic Bold" panose="020B0903060703020204" pitchFamily="34" charset="0"/></a:rPr><a:t> Health-conscious women and men need natural solutions for hair loss and wrinkles because they want safer  beauty
+
+--- slide3.xml ---
+Chemical  beauty products can harm your skin and hair. But nature has solutions! People aged 25-27 want natural, safe beauty remedies. I wanted to fix my hair loss and wrinkles without using harsh chemicals  But most "natural" products didn’t work well! This is a common experience in Tajikistan where people seek safer beauty solutions. </a:r><a:br><a:rPr lang="ru-RU" sz="2400" dirty="0"/></a:br><a:r><a:rPr lang="en-US" sz="2400" dirty="0"><a:latin typeface="Cooper Black" panose="0208090404030B020404" pitchFamily="18" charset="0"/></a:rPr><a:t>Now I’ve found a way - using homemade natural remedies.
+
+--- slide4.xml ---
+Describe  the target market’s need - Health-conscious women and men aged 25-27 need natural solutions for hair loss and wrinkles because they want safer  beauty. Business Description - Homemade Remedies for Hair Loss / Wrinkles is a natural, safe, and effective line of hair and skin care products that helps adults concerned with hair thinning and aging achieve stronger hair and smoother skin naturally.   - It’s very easy to use. The customer applies the product and sees results in weeks. - We prepare remedies using natural ingredients and package in eco-friendly containers. - “Homemade Remedies” will have 1 manager and 3 employees.
+
+--- slide5.xml ---
+Marketing Market  Research - I surveyed 27 respondents and found that “Homemade Remedies” has a very promising business opportunity with urban adults looking for natural beauty solutions.   Evidence - I asked respondents: "Do you prefer natural remedies over chemical products?" The results showed that 80% answered yes, indicating strong demand.
+
+--- slide6.xml ---
+Competitive Analysis - There  are 5 direct competitors with average price 60-100  somoni  per product. Indirect competitors include commercial hair oils and anti-wrinkle creams . Marketing  Mix - I will attract customers by offering natural products (hair oils, face masks, serums) at 50-90  somoni , selling online and in local stores, and promoting via social media.
+
+--- slide7.xml ---
+Financials Cost  Projections - Startup costs: 25,000  somoni .    Operating costs: Year 1 (19,000), Year 2 (23,200), Year 3 (27,000)  somoni . Costs will grow gradually as business scales.   Sales  and Revenue Projections - Price per product: 75  somoni  (Y1), 80  somoni  (Y2), 90  somoni  (Y3). Revenue is expected to increase from 30,000  somoni  (Y1) to 81,000  somoni  (Y3).   Income  Statement - Income is expected to increase from 11,000  somoni  (Y1) to 24,800  somoni  (Y2) to 54,000  somoni  (Y3).
+
+--- slide8.xml ---
+

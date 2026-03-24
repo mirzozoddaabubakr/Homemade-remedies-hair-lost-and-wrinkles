@@ -1,0 +1,12 @@
+node_modules/
+.vercel/
+.env*
+*.zip
+extract.js
+extract_clean.js
+extract_final.js
+extract.py
+extract_clean.py
+pptx_extracted/
+presentation_text.txt
+presentation_text_final.txt

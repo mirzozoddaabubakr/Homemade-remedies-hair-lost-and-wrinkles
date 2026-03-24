@@ -1,0 +1,16 @@
+{
+  "name": "homemade-remedies-cinematic",
+  "version": "1.0.0",
+  "description": "Premium cinematic website for Homemade Remedies",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
